@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+### ESPAÑOL
+# Proyecto de Accesibilidad con React JS y Next JS
 
-## Getting Started
+## Descripción
 
-First, run the development server:
+Este proyecto es una tarea del módulo de accesibilidad del diplomado de software testing. El objetivo principal es evaluar y mejorar la accesibilidad de una aplicación web utilizando la herramienta WAVE y diversas tecnologías.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tecnologías Utilizadas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **React JS**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **Next JS**: Framework de React para aplicaciones web con renderizado del lado del servidor.
+- **Tailwind CSS**: Framework CSS para diseñar rápidamente interfaces de usuario.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Objetivos del Proyecto
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Evaluar la accesibilidad**: Utilizar la herramienta WAVE para identificar y solucionar problemas de accesibilidad en la aplicación.
+2. **Implementar buenas prácticas**: Asegurar que el código siga las mejores prácticas de accesibilidad.
+3. **Documentar el proceso**: Mantener un registro claro y detallado de los cambios realizados y su impacto en la accesibilidad.
 
-## Learn More
+### ENGLISH
+# Project Title
 
-To learn more about Next.js, take a look at the following resources:
+## Description
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+A brief description of your project, highlighting its purpose and main features.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Technologies Used
 
-## Deploy on Vercel
+- **Technology 1**: Brief description of technology 1.
+- **Technology 2**: Brief description of technology 2.
+- **Technology 3**: Brief description of technology 3.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Project Objectives
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Objective 1**: Detailed explanation of the first objective.
+2. **Objective 2**: Detailed explanation of the second objective.
+3. **Objective 3**: Detailed explanation of the third objective.
+
